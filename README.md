@@ -73,3 +73,4 @@ We would like to thank the creators of the Meta-Llama model for their groundbrea
 
 ---
 
+also need to download - "Meta-Llama-3-8B-Instruct-Q8_0.gguf"
